@@ -1,0 +1,263 @@
+{
+  "products": [
+    {
+      "id": "1a2b3c4d",
+      "name": "Vitamin D Supplement",
+      "description": "Supports bone health and immune function.",
+      "price": 15.99,
+      "category": "Supplements",
+      "features": [
+        "Supports bone health",
+        "Boosts immune system",
+        "Non-GMO"
+      ],
+      "image": "/images/vitamin-d.jpg"
+    },
+    {
+      "id": "3c4d5e6f",
+      "name": "Protein Powder",
+      "description": "High-quality whey protein for muscle building.",
+      "price": 29.99,
+      "category": "Supplements",
+      "features": [
+        "High protein",
+        "Low carb",
+        "Gluten-free"
+      ],
+      "image": "/images/protein-powder.jpg"
+    },
+    {
+      "id": "4d5e6f7g",
+      "name": "Blood Pressure Monitor",
+      "description": "Digital monitor for easy at-home blood pressure readings.",
+      "price": 49.99,
+      "category": "Equipment",
+      "features": [
+        "Digital display",
+        "Cuff included",
+        "Memory storage"
+      ],
+      "image": "/images/blood-pressure-monitor.jpg"
+    },
+    {
+      "id": "5e6f7g8h",
+      "name": "Yoga Mat",
+      "description": "Non-slip yoga mat for all types of exercises.",
+      "price": 19.99,
+      "category": "Fitness",
+      "features": [
+        "Non-slip surface",
+        "Lightweight",
+        "Eco-friendly material"
+      ],
+      "image": "/images/yoga-mat.jpg"
+    },
+    {
+      "id": "7g8h9i0j",
+      "name": "Digital Thermometer",
+      "description": "Fast and accurate temperature readings.",
+      "price": 8.99,
+      "category": "Equipment",
+      "features": [
+        "Quick read",
+        "Fever alarm",
+        "Flexible tip"
+      ],
+      "image": "/images/thermometer.jpg"
+    },
+    {
+      "id": "8h9i0j1k",
+      "name": "Herbal Sleep Aid",
+      "description": "Natural supplement to promote restful sleep.",
+      "price": 14.99,
+      "category": "Supplements",
+      "features": [
+        "Non-habit forming",
+        "Contains melatonin",
+        "Herbal blend"
+      ],
+      "image": "/images/sleep-aid.jpg"
+    },
+    {
+      "id": "8i0j1k2l",
+      "name": "Electric Toothbrush",
+      "description": "Cleaning technology for oral health.",
+      "price": 39.99,
+      "category": "Personal Care",
+      "features": [
+        "Rechargeable",
+        "Timer included"
+      ],
+      "image": "/images/electric-toothbrush-1.jpg"
+    },
+    {
+      "id": "9i0j1k2l",
+      "name": "Electric Toothbrush",
+      "description": "Advanced cleaning technology for oral health.",
+      "price": 49.99,
+      "category": "Personal Care",
+      "features": [
+        "Rechargeable",
+        "Multiple brush modes",
+        "Timer included"
+      ],
+      "image": "/images/electric-toothbrush-2.jpg"
+    },
+    {
+      "id": "0j1k2l3m",
+      "name": "Multivitamin Gummies",
+      "description": "Complete daily vitamins in a tasty gummy form.",
+      "price": 11.99,
+      "category": "Supplements",
+      "features": [
+        "For adults",
+        "Fruit flavors",
+        "Gluten-free"
+      ],
+      "image": "/images/multivitamin-gummies.jpg"
+    },
+    {
+      "id": "1k2l3m4n",
+      "name": "Infrared Ear Thermometer",
+      "description": "Contactless temperature measurement.",
+      "price": 29.99,
+      "category": "Equipment",
+      "features": [
+        "No-contact",
+        "Instant reading",
+        "Backlit display"
+      ],
+      "image": "/images/ear-thermometer.jpg"
+    },
+    {
+      "id": "3m4n5o6p",
+      "name": "Hand Cleansing Gel",
+      "description": "Kills 99.9% of germs without water.",
+      "price": 5.99,
+      "category": "Personal Care",
+      "features": [
+        "Moisturizing formula",
+        "Panthenol",
+        "Quick-drying"
+      ],
+      "image": "/images/hand-sanitizer-2.jpg"
+    },
+    {
+      "id": "5m5o6p7q",
+      "name": "Antioxidant Face Cream",
+      "description": "Hydrating cream enriched with vitamins C and E.",
+      "price": 18.99,
+      "category": "Personal Care",
+      "features": [
+        "Anti-aging",
+        "Paraben-free",
+        "Dermatologist tested"
+      ],
+      "image": "/images/face-cream-1.jpg"
+    },
+    {
+      "id": "4n5o6p7q",
+      "name": "Anti-wrinkle Face Cream",
+      "description": "Hydrating cream enriched with vitamins C and E.",
+      "price": 18.99,
+      "category": "Personal Care",
+      "features": [
+        "Anti-wrinkle",
+        "Anti-aging",
+        "Dermatologist tested"
+      ],
+      "image": "/images/face-cream-2.jpg"
+    },
+    {
+      "id": "5o6p7q8r",
+      "name": "Turmeric and Ginger Capsules",
+      "description": "Supports joint health and inflammation response.",
+      "price": 16.99,
+      "category": "Supplements",
+      "features": [
+        "Brain health",
+        "Reduce inflammation",
+        "Vegan capsules"
+      ],
+      "image": "/images/turmeric.jpg"
+    },
+    {
+      "id": "9877q8r",
+      "name": "Dear Scrub Lip Balm",
+      "description": "Exfoliating lip balm for smooth and hydrated lips.",
+      "price": 16.99,
+      "category": "Personal Care",
+      "features": [
+        "Exfoliates lips",
+        "Hydrates and nourishes",
+        "Natural ingredients"
+      ],
+      "image": "/images/lip-balm-1.jpg"
+    },
+    {
+      "id": "9234q8r",
+      "name": "Three Ships Lip Balm",
+      "description": "Moisturizing lip balm for soft and healthy lips.",
+      "price": 16.99,
+      "category": "Personal Care",
+      "features": [
+        "Deeply moisturizes",
+        "Long-lasting hydration",
+        "Organic ingredients"
+      ],
+      "image": "/images/lip-balm-2.jpg"
+    },
+    {
+      "id": "6r7s8t9u",
+      "name": "Classic Glasses",
+      "description": "Stylish and durable glasses for everyday use.",
+      "price": 42.99,
+      "category": "Personal Care",
+      "features": [
+        "Anti-glare lenses",
+        "Lightweight frame",
+        "Available in multiple strengths"
+      ],
+      "image": "/images/glasses-1.jpg"
+    },
+    {
+      "id": "7s8t9u0v",
+      "name": "Fashion Glasses",
+      "description": "Trendy glasses to complement your style.",
+      "price": 99.99,
+      "category": "Personal Care",
+      "features": [
+        "Stylish frames",
+        "Comfortable fit",
+        "Durable material"
+      ],
+      "image": "/images/glasses-2.jpg"
+    },
+    {
+      "id": "8t9u0v1w",
+      "name": "Suncademy Sunscreen",
+      "description": "Broad-spectrum SPF 50 sunscreen with moisturizing properties.",
+      "price": 15.99,
+      "category": "Personal Care",
+      "features": [
+        "SPF 50",
+        "Moisturizing",
+        "Non-greasy"
+      ],
+      "image": "/images/sunscreen-1.jpg"
+    },
+    {
+      "id": "9u0v1w2x",
+      "name": "Lakme Sunscreen",
+      "description": "Water-resistant sunscreen for active lifestyles.",
+      "price": 19.99,
+      "category": "Personal Care",
+      "features": [
+        "Light-weight",
+        "Water-resistant",
+        "Sweat-proof"
+      ],
+      "image": "/images/sunscreen-2.jpg"
+    }
+  ]
+}
