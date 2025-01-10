@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import useProducts, {Product} from "../hooks/useProducts";
 import ProductCard from "./ProductCard";
+import { Card, CardMedia, CardContent, Typography, Button } from "@mui/material";
+import { useNavigate } from "react-router-dom";
 
 const ProductList: React.FC = () => {
   const { products, error, loading } = useProducts();
@@ -8,6 +10,7 @@ const ProductList: React.FC = () => {
   const [sortOrder, setSortOrder] = useState<string>("asc");
   const [comparisonList, setComparisonList] = useState<Product[]>([]);
   const [searchQuery, setSearchQuery] = useState<string>("");
+  const navigate = useNavigate();
 
   const handleSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setSearchQuery(event.target.value);
@@ -28,6 +31,10 @@ const ProductList: React.FC = () => {
         : [...prev, product]
     );
   };
+
+  const handleCompareList = () => {
+    navigate('/comparison', {state : {comparisonList}});
+  }
 
   const filteredProducts = products
     .filter((product) =>
@@ -99,6 +106,14 @@ const ProductList: React.FC = () => {
           </ul>
         </div>
       )}
+      <Button
+          variant="contained"
+          color="primary"
+          style={{ marginTop: "10px" }}
+          onClick={handleCompareList}
+      >
+        Compare
+      </Button>
     </div>
   );
 };
