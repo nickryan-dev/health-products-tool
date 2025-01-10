@@ -9,7 +9,7 @@ const Home: React.FC = () => {
     return <div>{error}</div>;
   }
 
-  return <ProductList products={products} />;
+  return <ProductList/>;
 };
 
 export default Home;
